@@ -1,0 +1,68 @@
+li{
+	display: inline-block;
+}
+
+ul.navbar-nav.nav.navbar-right{
+	display: inline;
+}
+
+#jumbo{
+	width: 100%;
+}
+
+.jumbotron{
+	padding: 0;
+	background-attachment: fixed;
+	background-image:url("http://all4desktop.com/data_images/original/4239027-images-of-nature.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;
+	min-height: 500px;
+}
+
+.tile{
+	padding: 20px;
+}
+
+.tile img{
+	width: 100%;
+	height: 250px;
+	margin-top: 10px;
+}
+
+/*.form-control{
+	max-width: 800px;*/
+.form-group{
+  	 display: block;
+ 	 margin : 10px auto;
+ 	 max-width: 400px;
+ }
+
+.nav-item{
+	margin: 0 10px;
+}
+
+.navbar-default {
+  background-color: #e2e0e0;
+  background-image: none;
+  background-repeat: no-repeat;
+  color: black;
+ }
+
+ body{
+ 	font-family: Roboto Slab;
+ }
+
+ button{
+ 	margin-top : 15px;
+ }
+
+ footer{
+ 	padding: 10px;
+ 	background-color: #e2e0e0;
+ 	font-size: 14px;
+ 	font-weight: 300;
+ }
+
+ #contact{
+ 	 text-align: center;
+ }
